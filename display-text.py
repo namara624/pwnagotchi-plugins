@@ -1,3 +1,7 @@
+#begining of somthing stupid
+
+
+
 import logging
 import pwnagotchi.ui.components as components
 import pwnagotchi.ui.view as view
